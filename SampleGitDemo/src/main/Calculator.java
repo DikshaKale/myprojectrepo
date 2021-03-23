@@ -43,6 +43,10 @@ public class Calculator {
 	public static void br2funct2(int num1){
 	      System.out.println(num1*num1*num1*num1);
 	  }
+	public static void br3funct3(int num1){
+	      System.out.println(num1*num1*num1*num1);
+	  }
+
 }
 
 
